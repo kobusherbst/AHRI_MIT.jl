@@ -3,5 +3,13 @@ uuid = "e77cab49-5276-415c-be9e-68688b2dc8a8"
 authors = ["Kobus Herbst"]
 version = "1.0.0-DEV"
 
+[deps]
+AlgebraOfGraphics = "cbdf2221-f076-402e-a563-3d30da359d67"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+PalmerPenguins = "8b842266-38fa-440a-9b57-31493939ab85"
+
 [compat]
 julia = "1.10"
