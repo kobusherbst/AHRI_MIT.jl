@@ -1,0 +1,7 @@
+name = "AHRI_MIT"
+uuid = "e77cab49-5276-415c-be9e-68688b2dc8a8"
+authors = ["Kobus Herbst"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"

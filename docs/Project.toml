@@ -1,0 +1,3 @@
+[deps]
+AHRI_MIT = "e77cab49-5276-415c-be9e-68688b2dc8a8"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
